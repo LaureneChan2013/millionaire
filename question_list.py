@@ -1,0 +1,22 @@
+questions = [
+    {"question": "Is the sky blue?", "answer": True},
+    {"question": "Is the earth flat?", "answer": False},
+    {"question": "Is python a programming language?", "answer": True},
+    {"question": "Is Paris the capital of Canada?", "answer": False},
+    {"question": "Is water wet?", "answer": True},
+    {"question": "Is Mount Everest the tallest mountain?", "answer": True},
+    {"question": "Is 7 a prime number?", "answer": True},
+    {"question": "Is chocolate poisonous to dogs?", "answer": True},
+    {"question": "Is the Great Wall of China visible from space?", "answer": False},
+    {"question": "Is the moon made of cheese?", "answer": False},
+    {"question": "Is the sun a planet?", "answer": False},
+    {"question": "Is the earth the third planet from the sun?", "answer": True},
+    {"question": "Is a tomato a fruit?", "answer": True},
+    {"question": "Is ice cream a vegetable?", "answer": False},
+    {"question": "Is the color pink a type of fruit?", "answer": False},
+    {"question": "Is the number 0 a positive integer?", "answer": False},
+    {"question": "Is the letter T the 20th letter of the alphabet?", "answer": False},
+    {"question": "Is the city of New York located in Canada?", "answer": False},
+    {"question": "Is the quadratic formula used to solve linear equations?", "answer": False},
+    {"question": "Is the movie Titanic based on a true story?", "answer": True}
+]
